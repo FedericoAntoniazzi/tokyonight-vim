@@ -1,3 +1,5 @@
+:warning: This fork is a mix of OneDark and TokyoNight made for fixing some "bad" colors :warning:
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/ghifarit53/tokyonight-vim/master/pictures/screenshot.png">
 </p>
