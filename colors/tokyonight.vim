@@ -49,7 +49,7 @@ if s:configuration.style ==# 'night'
         \ 'orange':     ['#FF9E64',   '215',  'Orange'],
         \ 'yellow':     ['#E0AF68',   '179',  'Yellow'],
         \ 'green':      ['#9ECE6A',   '107',  'Green'],
-        \ 'blue':       ['#7AA2F7',   '110',  'Blue'],
+        \ 'blue':       ['#6285ef',   '110',  'Blue'],
         \ 'purple':     ['#ad8ee6',   '176',  'Magenta'],
         \ 'grey':       ['#5f688e',   '246',  'LightGrey'],
         \ 'none':       ['NONE',      'NONE', 'NONE']
