@@ -51,7 +51,7 @@ if s:configuration.style ==# 'night'
         \ 'green':      ['#9ECE6A',   '107',  'Green'],
         \ 'blue':       ['#7AA2F7',   '110',  'Blue'],
         \ 'purple':     ['#ad8ee6',   '176',  'Magenta'],
-        \ 'grey':       ['#444B6A',   '246',  'LightGrey'],
+        \ 'grey':       ['#5f688e',   '246',  'LightGrey'],
         \ 'none':       ['NONE',      'NONE', 'NONE']
         \ }
 elseif s:configuration.style ==# 'storm'
