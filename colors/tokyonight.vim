@@ -45,7 +45,7 @@ if s:configuration.style ==# 'night'
         \ 'bg_blue':    ['#7da6ff',   '110',  'Blue'],
         \ 'diff_blue':  ['#3e5380',   '17',   'DarkBlue'],
         \ 'fg':         ['#a9b1d6',   '250',  'White'],
-        \ 'red':        ['#F7768E',   '203',  'Red'],
+        \ 'red':        ['#E06C75',   '203',  'Red'],
         \ 'orange':     ['#FF9E64',   '215',  'Orange'],
         \ 'yellow':     ['#E0AF68',   '179',  'Yellow'],
         \ 'green':      ['#9ECE6A',   '107',  'Green'],
