@@ -24,6 +24,9 @@ this colorscheme works best with [vim-polyglot](https://github.com/sheerun/vim-p
 - Customizable
 - [Italic support](https://github.com/sainnhe/icursive-nerd-font)
 
+If you are on Neovim 0.5.x and need support for plugins like Treesitter, native LSP, and
+other awesome plugins for Neovim, I recommend you to go for [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
+
 ### Installation
 
 Using [vim-plug](https://github.com/junegunn/vim-plug)
@@ -91,6 +94,7 @@ The lightline and airline styles will both follow the chosen colorscheme style.
 ### Port
 
 - [Alacritty](https://github.com/zatchheems/tokyo-night-alacritty-theme) by [zatchheems](https://github.com/zatchheems)
+- [Kitty](https://github.com/aerosol/tokyonight-kitty)
 
 .Xresources file available [here](./port) if you want to port it<br>
 Tell me if you made a port and i'll list them here<br>
@@ -102,4 +106,4 @@ Tell me if you made a port and i'll list them here<br>
 
 ### License
 
-[MIT](./LICENSE) © Ghifari Taqiuddin
+[MIT](./LICENSE)
